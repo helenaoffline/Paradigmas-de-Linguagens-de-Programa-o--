@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c84edaa3-24f9-4e9c-9051-7f798e248072" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exercicio3/src/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio4_e_5/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio4_e_5/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercicio4_e_5/src/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/cadastro/src/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/cadastro/src/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/cadastro/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Morcego.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2my8fVco4Doo5X0lgGqfZqmQeeU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/helena/Documents/unipe2024-2/tecnicas/Lista de Exercicio 1/java/exercicio1/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c84edaa3-24f9-4e9c-9051-7f798e248072" name="Changes" comment="" />
+      <created>1728037561183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728037561183</updated>
+      <workItem from="1728037562231" duration="769000" />
+      <workItem from="1728038348962" duration="556000" />
+      <workItem from="1728040786657" duration="508000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

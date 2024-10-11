@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface Mamifero {
+public interface Mamifero {
+    void amamentar();
 }

@@ -1,0 +1,17 @@
+class Carrinho:
+    def __init__(self, modelo, motor, pneus):
+        self.modelo = modelo
+        self.motor = motor
+        self.pneus = pneus
+
+    def ligar(self):
+        self.motor.ligar()
+        print("O carro está pronto para rodar")
+
+    def desligar(self):
+        self.motor.desligar()
+        print("O carro está desligado")
+
+    def trocar_pneu(self):
+        self.pneus{indice} = novo_pneu
+        

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7891f7e-e01c-4096-a4d6-4e0486030d23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../java/cadastro/src/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/cadastro/src/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/cadastro/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Ave.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Mamifero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../java/untitled1/src/Morcego.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2my8H58P5HNiTmPcwwGdw6wMCwJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/helena/Documents/unipe2024-2/tecnicas/Lista de Exercicio 1/java/Exercicio/src/Main.java",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7891f7e-e01c-4096-a4d6-4e0486030d23" name="Changes" comment="" />
+      <created>1728037366291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728037366291</updated>
+      <workItem from="1728037367336" duration="194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

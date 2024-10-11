@@ -1,2 +1,11 @@
-package PACKAGE_NAME;public class Gato {
+public class Gato extends Animal {
+
+
+    public Gato(String especie, String nome) {
+        super(especie, nome);
+    }
+
+    public void emitir_som(){
+        System.out.println(getNome() + " Miau, miau");
+    }
 }
